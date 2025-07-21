@@ -1,0 +1,132 @@
+
+! Ad css, they could be loaded but they will be hidden
+reddit.com##.promotedlink
+
+! Link shorteners css so you don’t click them
+##a[href*="bit.ly"],
+##a[href*="tinyurl.com"],
+##a[href*="is.gd"],
+##a[href*="cutt.ly"],
+##a[href*="shorte.st"],
+##a[href*="buff.ly"],
+##a[href*="adf.ly"],
+##a[href*="rebrandly.com"],
+##a[href*="tiny.cc"],
+##a[href*="t.ly"],
+##a[href*="short.io"],
+##a[href*="kutt.it"],
+##a[href*="rb.gy"],
+##a[href*="y.gy"]
+
+! Link shortener services
+||bit.ly^
+||tinyurl.com^
+||is.gd^
+||cutt.ly^
+||shorte.st^
+||buff.ly^
+||adf.ly^
+||rebrandly.com^
+||tiny.cc^
+||t.ly^
+||short.io^
+||kutt.it^
+||rb.gy^
+||y.gy^
+
+! Link hubs
+||linktr.ee^
+||carrd.co^
+||about.me^
+||bio.fm^
+||tap.bio^
+||linkin.bio^
+||lnk.bio^
+||contactin.bio^
+||linkinprofile.com^
+||shor.by^
+||linkpop.com^
+||beacons.ai^
+
+! Money and found raisers 
+||gofundme.com^
+||paypal.com^
+||venmo.com^
+
+! NSFW
+||pornhub.com^
+||xvideos.com^
+||xhamster.com^
+||xnxx.com^
+||onlyfans.com^
+||jerkmate.com^
+||rredtube.com^
+||xxnxx.tv^
+||rredgifs.com^
+||ddlsite.com^
+||ppornzog.com^
+||ttktube.com^
+||candy.ai^
+||adultfriendfinder.com^
+||brazzers.com^
+||21sextury.com^
+||literotica.com^
+||imagefap.com^
+||aebn.com^
+||fapfappy.com^
+||leakslove.com^
+||leakshaven.com^
+||leak.xxx^
+||ultrathots.com^
+||thotslife.com^
+||fapeza.com^
+||lewdstars.com^
+
+! Socials
+||facebook.com^
+||instagram.com^
+||tiktok.com^
+||bsky.social^
+||telegram.org^
+||t.me^
+
+! Dating Sites
+||tinder.com^
+||hinge.com^
+||bumble.com^
+||match.com^
+||okcupid.com^
+||eharmony.com^
+||coffee meets bagel.com^
+||grindr.com^
+||ashleymadison.com^
+||adultfriendfinder.com^
+
+! Gambling Sites
+||betonline.ag^
+||bovada.lv^
+||pokerstars.com^
+||888casino.com^
+||betway.com^
+
+! Violent or Graphic Content Sites
+||liveleak.com^
+||bestgore.com^
+||theync.com^
+||documentingreality.com^
+||ogrish.tv^
+
+! Snapchat ad and tracking domains
+||adsapi.snapchat.com^
+||asia-southeast1-gcp.api.snapchat.com^
+||aws-cf.api.snapchat.com^
+||app-analytics.snapchat.com^
+||app-analytics-v2.snapchat.com^
+||euw.adserver.snapads.com^
+||ads-interfaces.sc-cdn.net^
+||ase.adserver.snapads.com^
+||usc.adserver.snapads.com^
+||use.adserver.snapads.com^
+||snapads.com^
+||us-east1-aws.api.snapchat.com^
+||bolt-gcdn.sc-cdn.net^
